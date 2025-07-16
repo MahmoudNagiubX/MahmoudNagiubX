@@ -17,7 +17,7 @@
 ---
 
 ### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimsamer100&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNagiubX&layout=compact&theme=tokyonight)
 
 ---
 

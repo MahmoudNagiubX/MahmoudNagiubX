@@ -4,7 +4,7 @@
 - 📄 [CV](link-to-your-cv)
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmoudnagiubb)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/mahmoudnagiubb)
 
 <br/>
 

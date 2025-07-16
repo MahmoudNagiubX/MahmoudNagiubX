@@ -10,14 +10,11 @@
 
 ### 🛠 Languages and Tools:
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C++]([https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus](https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg?format=pjpg&s=7c9a157a973792d315d54075d8ab7800ab49d2fe))
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Python](https://www.svgrepo.com/show/452091/python.svg)
 
 ---
 

@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center"> Hey , I'm Mahmoud Nagiub </h1>
+<h3 align="center"> Data Scientist & Analyst | Machine Learning Engineer </h3>
 
-<!--
-**MahmoudNagiubX/MahmoudNagiubX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📄 [CV](link-to-your-cv)
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmoudnagiubb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🛠 Languages and Tools:
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+
+---
+
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimsamer100&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Popular Repositories
+
+Check out some of my projects below 👇
+
+

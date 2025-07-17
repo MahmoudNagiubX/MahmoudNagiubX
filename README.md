@@ -1,28 +1,49 @@
-<h1 align="center"> Hey , I'm Mahmoud Nagiub </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hey+,+I'm+Mahmoud+Nagiub+👋🏻;+I'm+George+Ezat+👨🏻‍💻;"/>
+</h1>
 <h3 align="center"> Data Scientist & Analyst | Machine Learning Engineer </h3>
-
 - 📄 [CV](link-to-your-cv)
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/mahmoudnagiubb)
-
-<br/>
-
-### 🛠 Languages and Tools:
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-
----
-
-### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNagiubX&layout=compact&theme=tokyonight)
+<p align="center">
+    <a href="https://www.linkedin.com/in/mahmoudnagiubb">
+        <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?color=1f7daf&labelColor=0e76a8&style=for-the-badge&logo=linkedin-s&label=&logoColor=white"/></a>
+    <a href="https://github.com/MahmoudNagiubX?tab=followers">
+        <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/GeorgeEzat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/MahmoudNagiubX?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GeorgeEzat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 ---
 
-### 📌 Popular Repositories
+# **Languages & Tools ⚙️**
 
-Check out some of my projects below 👇
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,git,cpp,python,mysql" />
+</div>
 
+---
 
+# **GitHub Stats 📊**
+
+<div align='center'>
+
+![](https://github-readme-stats.vercel.app/api?username=MahmoudNagiubX&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github&border_radius=10)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MahmoudNagiubX&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNagiubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&exclude_repo=MahmoudNagiubX)
+
+</div>
+
+---
+
+# **GitHub Trophies 🏆**
+
+<div align='center'>
+
+![](https://github-profile-trophy.vercel.app/?username=MahmoudNagiubX&theme=nord&no-frame=false&no-bg=t&margin-w=6)
+
+</div>
+
+---

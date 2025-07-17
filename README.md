@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hey+,+I'm+Mahmoud+Nagiub+👋🏻;"/>
 </h1>
 <h3 align="center"> Data Scientist & Analyst | Machine Learning Engineer </h3>
-- 📄 [CV](https://drive.google.com/file/d/1OppLfTGVx6GSpvw3em4wt5i3hP2b54Lx/view?pli=1)
+
+- 📝 [CV](https://drive.google.com/file/d/1OppLfTGVx6GSpvw3em4wt5i3hP2b54Lx/view?usp=sharing)
 
 ### Connect with me:
 <p align="center">

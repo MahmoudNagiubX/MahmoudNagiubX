@@ -20,7 +20,7 @@
 # **Languages & Tools ⚙️**
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,git,cpp,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,cpp,python,mysql" />
 </div>
 
 ---

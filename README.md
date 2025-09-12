@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center"> Data Scientist & Analyst | AI Engineer </h3>
 
-- 📝 [CV](https://drive.google.com/file/d/1OppLfTGVx6GSpvw3em4wt5i3hP2b54Lx/view?usp=sharing)
+- 📝 [CV](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing)
 
 ### Connect with me:
 <p align="center">

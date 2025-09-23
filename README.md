@@ -10,7 +10,7 @@
 - 🎓 Software Engineering student with a strong focus on **Data Science & Artificial Intelligence**.  
 - 📊 Skilled in **data analysis, visualization, and machine learning models**.  
 - 🤖 Passionate about **building AI-driven solutions** and applying data to solve real-world problems.  
-- 📂 Check out my [CV](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing).  
+- 📂 Check out my [**CV**](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing).  
 
 ---
 

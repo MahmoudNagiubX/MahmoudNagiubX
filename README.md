@@ -1,50 +1,63 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hey+,+I'm+Mahmoud+Nagiub+👋🏻;"/>
+  👋 Hi, I'm Mahmoud Nagiub
 </h1>
-<h3 align="center"> Data Scientist & Analyst | AI Engineer </h3>
 
-- 📝 [CV](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing)
+<h3 align="center">Data Scientist & Analyst | AI & ML Engineer</h3>
 
-### Connect with me:
+---
+
+## 📝 About Me
+- 🎓 Software Engineering student with a strong focus on **Data Science & Artificial Intelligence**.  
+- 📊 Skilled in **data analysis, visualization, and machine learning models**.  
+- 🤖 Passionate about **building AI-driven solutions** and applying data to solve real-world problems.  
+- 📂 Check out my [CV](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing).  
+
+---
+
+## ⚙️ Skills & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
+</div>
+
+- **Programming:** Python, C++  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch (basics)  
+- **Other Tools:** Git, GitHub, VS Code, Jupyter, Kaggle, Google Colab  
+
+---
+
+## 📌 Featured Projects
+🔹 [Data Analysis Projects](https://github.com/MahmoudNagiubX?tab=repositories&q=data&type=&language=&sort=) – Titanic ML, EDA, and more.  
+🔹 [Super Mango Game (C++ with Raylib)](https://github.com/MahmoudNagiubX/Super-Mango) – Fun 2D game project.  
+🔹 [Audiva Music Player (HTML, CSS, JS)](https://github.com/MahmoudNagiubX/Audiva-Music-Player) – Data structures & GUI integration.  
+
+---
+
+## 🎓 Certifications & Courses
+- 🟢 **Machine Learning Specializations** – Coursera (DeepLearning.AI & Stanford Online)  
+- 🟢 **AI & Machine Learning Program** – Sprints & Microsoft  
+- 🟢 **Data Analytics Training** – National Telecommunication Institute (NTI)  
+- 🟢 **Python Fundamentals** – DataCamp
+- 🟢 **SQL Fundamentals** – DataCamp  
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
-    <a href="https://www.linkedin.com/in/mahmoudnagiubb">
-        <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?color=1f7daf&labelColor=0e76a8&style=for-the-badge&logo=linkedin-s&label=&logoColor=white"/></a>
-    <a href="https://github.com/MahmoudNagiubX?tab=followers">
-        <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/GeorgeEzat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/MahmoudNagiubX?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GeorgeEzat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://www.linkedin.com/in/mahmoudnagiubb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/MahmoudNagiubX">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# **Languages & Tools ⚙️**
-
+## 📊 GitHub Stats
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,cpp,python,mysql" />
-</div>
 
----
-
-# **GitHub Stats 📊**
-
-<div align='center'>
-
-![](https://github-readme-stats.vercel.app/api?username=MahmoudNagiubX&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github&border_radius=10)
-
-![](https://nirzak-streak-stats.vercel.app/?user=MahmoudNagiubX&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNagiubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&exclude_repo=MahmoudNagiubX)
+![](https://github-readme-stats.vercel.app/api?username=MahmoudNagiubX&theme=github_dark&show_icons=true&count_private=true&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNagiubX&theme=github_dark&layout=compact&hide_border=true)
 
 </div>
-
----
-
-# **GitHub Trophies 🏆**
-
-<div align='center'>
-
-![](https://github-profile-trophy.vercel.app/?username=MahmoudNagiubX&theme=nord&no-frame=false&no-bg=t&margin-w=6)
-
-</div>
-
----

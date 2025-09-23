@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm Mahmoud NagiuB
+  👋 Hi, I'm Mahmoud Nagiub
 </h1>
 
 <h3 align="center">Data Scientist & Analyst | AI & ML Engineer</h3>

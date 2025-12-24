@@ -7,7 +7,7 @@
 ---
 
 ## 📝 About Me
-- 🎓 Software Engineering student with a strong focus on **Data Science & Artificial Intelligence**.  
+- 🎓 Software Engineering student with a strong focus on **Machine Learning & Artificial Intelligence**.  
 - 📊 Skilled in **data analysis, visualization, and machine learning models**.  
 - 🤖 Passionate about **building AI-driven solutions** and applying data to solve real-world problems.  
 - 📂 Check out my [**CV**](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing).  
@@ -21,12 +21,13 @@
 
 - **Programming:** Python, C++  
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel  
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch (basics)  
+- **Machine Learning:** Scikit-learn, TensorFlow, keras, PyTorch (basics)  
 - **Other Tools:** Git, GitHub, VS Code, Jupyter, Kaggle, Google Colab  
 
 ---
 
 ## 📌 Featured Projects
+🔹 [Multi Disease Detection System Project](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System) – ML, DL, and LLM API.
 🔹 [Data Analysis Projects](https://github.com/MahmoudNagiubX?tab=repositories&q=data&type=&language=&sort=) – Titanic ML, EDA, and more.  
 🔹 [Super Mango Game (C++ with Raylib)](https://github.com/MahmoudNagiubX/Super-Mango) – Fun 2D game project.  
 🔹 [Audiva Music Player (HTML, CSS, JS)](https://github.com/MahmoudNagiubX/Audiva-Music-Player) – Data structures & GUI integration.  

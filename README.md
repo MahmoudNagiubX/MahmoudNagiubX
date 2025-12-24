@@ -28,6 +28,7 @@
 
 ## 📌 Featured Projects
 🔹 [Multi Disease Detection System Project](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System) – ML, DL, and LLM API.
+
 🔹 [Data Analysis Projects](https://github.com/MahmoudNagiubX?tab=repositories&q=data&type=&language=&sort=) – Titanic ML, EDA, and more.  
 🔹 [Super Mango Game (C++ with Raylib)](https://github.com/MahmoudNagiubX/Super-Mango) – Fun 2D game project.  
 🔹 [Audiva Music Player (HTML, CSS, JS)](https://github.com/MahmoudNagiubX/Audiva-Music-Player) – Data structures & GUI integration.  

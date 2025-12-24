@@ -2,7 +2,7 @@
   Hi, I'm Mahmoud Nagiub
 </h1>
 
-<h3 align="center">Data Scientist & Analyst | AI & ML Engineer</h3>
+<h3 align="center">AI & ML Engineer | Data Scientist & Analyst</h3>
 
 ---
 

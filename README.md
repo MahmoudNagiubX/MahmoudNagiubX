@@ -2,13 +2,13 @@
   Hi, I'm Mahmoud Nagiub
 </h1>
 
-<h3 align="center">AI & ML Engineer | Data Scientist & Analyst</h3>
+<h3 align="center">Aspiring AI Engineer | Machine Learning Engineer | Junior Software Engineer</h3>
 
 ---
 
 ## 📝 About Me
 - 🎓 Software Engineering student with a strong focus on **Machine Learning & Artificial Intelligence**.  
-- 📊 Skilled in **data analysis, visualization, and machine learning models**.  
+- 📊 Skilled in **data analysis, visualization, machine learning models, and end to end AI systems**.  
 - 🤖 Passionate about **building AI-driven solutions** and applying data to solve real-world problems.  
 - 📂 Check out my [**CV**](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing).  
 
@@ -21,6 +21,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudNagiubX/MahmoudNagiubX/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MahmoudNagiubX/MahmoudNagiubX/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoudnagiubb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/MahmoudNagiubX">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -50,18 +62,6 @@
 - 🟢 **Data Analytics Training** – National Telecommunication Institute (NTI)  
 - 🟢 **Python Fundamentals** – DataCamp
 - 🟢 **SQL Fundamentals** – DataCamp  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmoudnagiubb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/MahmoudNagiubX">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 

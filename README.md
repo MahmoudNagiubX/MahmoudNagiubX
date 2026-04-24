@@ -14,7 +14,7 @@
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## 🟡 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudNagiubX/MahmoudNagiubX/output/pacman-contribution-graph-dark.svg">

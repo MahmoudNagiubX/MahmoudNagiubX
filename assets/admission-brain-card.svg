@@ -1,0 +1,62 @@
+<svg width="900" height="500" viewBox="0 0 900 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="900" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="0.55" stop-color="#17122B"/>
+      <stop offset="1" stop-color="#0D2530"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="250" x2="800" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7C948"/>
+      <stop offset="0.48" stop-color="#AEB1CC"/>
+      <stop offset="1" stop-color="#5CE1E6"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="500" rx="28" fill="url(#cardbg)"/>
+  <rect width="900" height="500" rx="28" fill="url(#dots)"/>
+  <rect x="1" y="1" width="898" height="498" rx="27" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text x="62" y="76" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">Admission Robot Brain</text>
+  <text x="64" y="111" fill="#AEB8CE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Bilingual conversational intelligence for university admission</text>
+
+  <path d="M135 250H765" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M745 232L770 250L745 268" fill="none" stroke="#5CE1E6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <circle cx="145" cy="250" r="62" fill="#F7C948" fill-opacity="0.11" stroke="#F7C948" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="111" y="244" fill="#FFE18A" font-size="18" font-weight="700">VOICE</text>
+    <text x="119" y="269" fill="#C9D1E1" font-size="14">or text</text>
+
+    <circle cx="350" cy="250" r="72" fill="#AEB1CC" fill-opacity="0.11" stroke="#AEB1CC" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="308" y="235" fill="#D4CEFF" font-size="17" font-weight="700">BILINGUAL</text>
+    <text x="317" y="258" fill="#D4CEFF" font-size="17" font-weight="700">INTELLIGENCE</text>
+    <text x="320" y="281" fill="#AEB8CE" font-size="13">Arabic + English</text>
+
+    <circle cx="566" cy="250" r="76" fill="#F472B6" fill-opacity="0.09" stroke="#F472B6" stroke-opacity="0.48" stroke-width="2"/>
+    <text x="538" y="228" fill="#F9A8D4" font-size="18" font-weight="700">QA</text>
+    <text x="523" y="255" fill="#C9D1E1" font-size="14">+</text>
+    <text x="510" y="281" fill="#F9A8D4" font-size="16" font-weight="700">39-FIELD FLOW</text>
+
+    <circle cx="760" cy="250" r="60" fill="#5CE1E6" fill-opacity="0.1" stroke="#5CE1E6" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="716" y="244" fill="#A8F1F4" font-size="17" font-weight="700">STRUCTURED</text>
+    <text x="734" y="269" fill="#A8F1F4" font-size="17" font-weight="700">OUTPUT</text>
+  </g>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
+    <rect x="64" y="382" width="772" height="58" rx="14" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="88" y="407" fill="#7DD3FC">session</text>
+    <text x="146" y="407" fill="#64748B">→</text>
+    <text x="171" y="407" fill="#C4B5FF">normalize</text>
+    <text x="252" y="407" fill="#64748B">→</text>
+    <text x="277" y="407" fill="#F9A8D4">validate</text>
+    <text x="350" y="407" fill="#64748B">→</text>
+    <text x="375" y="407" fill="#FDE68A">confirm</text>
+    <text x="439" y="407" fill="#64748B">→</text>
+    <text x="464" y="407" fill="#483D99">route</text>
+    <text x="511" y="407" fill="#64748B">→</text>
+    <text x="536" y="407" fill="#A5C3FC">export camelCase JSON</text>
+    <text x="88" y="427" fill="#7C879E">service-oriented » STT/TTS-ready · frontend integration boundary</text>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D1A"/>
+      <stop offset="0.52" stop-color="#12172B"/>
+      <stop offset="1" stop-color="#17112A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="70" x2="730" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7C948"/>
+      <stop offset="0.52" stop-color="#9B8CFF"/>
+      <stop offset="1" stop-color="#5CE1E6"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <circle cx="1110" cy="60" r="150" fill="#8B5CF6" fill-opacity="0.08"/>
+  <circle cx="1040" cy="310" r="180" fill="#22D3EE" fill-opacity="0.055"/>
+  <circle cx="80" cy="330" r="130" fill="#F7C948" fill-opacity="0.045"/>
+
+  <rect x="62" y="48" width="8" height="244" rx="4" fill="url(#accent)"/>
+
+  <text x="98" y="104" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Mahmoud Nagiub</text>
+  <text x="100" y="145" fill="#B9C2D7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">AI-focused Software Engineering Student</text>
+  <text x="100" y="190" fill="#E8ECF6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Building systems that listen, retrieve, reason, plan, and act.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">
+    <rect x="100" y="222" width="112" height="34" rx="17" fill="#F7C948" fill-opacity="0.13" stroke="#F7C948" stroke-opacity="0.5"/>
+    <text x="122" y="244" fill="#FFE18A">AI SYSTEMS</text>
+    <rect x="224" y="222" width="108" height="34" rx="17" fill="#9B8CFF" fill-opacity="0.13" stroke="#9B8CFF" stroke-opacity="0.5"/>
+    <text x="246" y="244" fill="#C9C2FF">BACKEND</text>
+    <rect x="344" y="222" width="166" height="34" rx="17" fill="#5CE1E6" fill-opacity="0.11" stroke="#5CE1E6" stroke-opacity="0.48"/>
+    <text x="365" y="244" fill="#A8F1F4">VOICE + ROBOTICS</text>
+    <rect x="522" y="222" width="152" height="34" rx="17" fill="#F472B6" fill-opacity="0.1" stroke="#F472B6" stroke-opacity="0.45"/>
+    <text x="544" y="244" fill="#F9A8D4">GEOSPATIAL AI</text>
+  </g>
+
+  <text x="100" y="286" fill="#7F8AA3" font-family="JetBrains Mono, Consolas, monospace" font-size="14">from data and voice → to reliable software → to real-world action</text>
+
+  <g transform="translate(760 48)">
+    <path d="M77 68L184 31L285 88L264 196L151 232L58 169L77 68Z" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M77 68L151 232M184 31L58 169M285 88L151 232M77 68L285 88M58 169L264 196M184 31L264 196" stroke="#FFFFFF" stroke-opacity="0.11"/>
+
+    <circle cx="77" cy="68" r="8" fill="#F7C948"/>
+    <circle cx="184" cy="31" r="8" fill="#9B8CFF"/>
+    <circle cx="285" cy="88" r="8" fill="#5CE1E6"/>
+    <circle cx="264" cy="196" r="8" fill="#F472B6"/>
+    <circle cx="151" cy="232" r="8" fill="#60A5FA"/>
+    <circle cx="58" cy="169" r="8" fill="#34D399"/>
+
+    <g fill="#D7DDEC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+      <text x="39" y="52">LISTEN</text>
+      <text x="154" y="12">GROUND</text>
+      <text x="292" y="92">REASON</text>
+      <text x="273" y="216">PLAN</text>
+      <text x="130" y="258">VERIFY</text>
+      <text x="10" y="191">ACT</text>
+    </g>
+
+    <rect x="111" y="110" width="124" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.055" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="136" y="131" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">ENGINEERING</text>
+    <text x="143" y="148" fill="#9AA5BC" font-family="JetBrains Mono, Consolas, monospace" font-size="11">SYSTEM LOOP</text>
+  </g>
+</svg>

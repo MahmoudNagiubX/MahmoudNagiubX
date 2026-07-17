@@ -1,73 +1,67 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Mahmoud Nagiub — AI-focused software engineering profile" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Mahmoud Nagiub — Software Engineering student focused on AI and machine learning" />
 
-<br />
+<h3>
+  <a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">📄 Resume</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mahmoudnagiubb/">💼 LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:mahmoud.nagib09@gmail.com">✉️ Email</a>
+</h3>
 
-<strong><a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">Resume</a></strong>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/mahmoudnagiubb/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="mailto:mahmoud.nagib09@gmail.com">Email</a>
-<br />
+<sub>Open to AI/ML, AI Software, and Backend internships · Cairo / Remote · Expected graduation: June 2028</sub>
 
 </div>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-I am a **Computer Software Engineering student at the Egyptian Chinese University** building practical AI-enabled systems—not isolated notebooks or tutorial clones.
+I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**. I focus on building end-to-end AI software rather than stopping at model training or notebooks.
 
-My strongest work sits where **AI, backend engineering, user-facing products, and real-world systems** meet: bilingual voice assistants, grounded retrieval, geospatial intelligence, scheduling automation, mobile applications, and robot integration.
+My work covers **machine learning, deep learning, RAG and LLM applications, computer vision, voice AI, backend APIs, databases, testing, Docker, and deployment**. I care about turning models into reliable products through grounded outputs, clear validation, modular services, and practical interfaces.
 
-| Snapshot | Details |
-|---|---|
-| **Education** | B.S. Computer Software Engineering · GPA **3.87 / 4.00** · Expected June 2028 |
-| **Current role** | AI Team Lead · INNOVATRONICS ECU Research Club |
-| **Target roles** | AI/ML Engineering · AI Software Systems · Backend Engineering Internships |
-| **Location** | Cairo · Remote |
+I currently lead the AI team at **INNOVATRONICS ECU Research Club** and I'm targeting internships in **AI/ML Engineering, AI Software Engineering, and Backend Engineering**.
+
+**Current focus:** `RAG & LLM Apps` · `Computer Vision` · `Machine Learning` · `FastAPI & Backend Systems` · `MLOps Foundations`
 
 ---
 
-## 🚀 Selected Engineering Systems
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot">
-  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot/main/docs/assets/Screenshot_20260504_171651_LinkedIn.jpg" width="100%" alt="INNO intelligent campus guide robot" />
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot/main/docs/assets/Screenshot_20260504_171651_LinkedIn.jpg" width="100%" alt="INNO Intelligent Campus Guide Robot" />
 </a>
 
-<h3>🤖 INNO — Intelligent Campus Guide Robot</h3>
+### 🤖 INNO — Intelligent Campus Guide Robot
 
-A bilingual, voice-first campus assistant connecting wake-word detection, streaming STT, grounded campus retrieval, TTS, session management, and validated robot-navigation commands on Raspberry Pi.
+A bilingual, voice-first campus robot using wake-word detection, streaming STT, grounded RAG, TTS, session handling, and validated navigation commands on Raspberry Pi.
 
-**Engineering signal:** AI that operates inside a physical product with failure states, latency constraints, and a safety boundary between language output and robot action.
+`Python` `RAG` `Voice AI` `SQLite/FTS5` `Raspberry Pi` `MQTT`
 
-`Python` `Voice AI` `RAG` `SQLite/FTS5` `Raspberry Pi` `MQTT`
+**1st Place Overall — Made in ECU Competition**
 
-**Team recognition:** 1st Place Overall at the Made in ECU Competition.
-
-[Explore the repository →](https://github.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot)
+[View repository →](https://github.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://mahmoudnagiubx-geoweather.hf.space/">
-  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin/main/docs/images/geoweather-landing-page.png" width="100%" alt="Geo Weather smart city dashboard" />
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin/main/docs/images/geoweather-landing-page.png" width="100%" alt="Geo Weather Smart City Dashboard" />
 </a>
 
-<h3>🌦️ Geo Weather — Smart City Intelligence</h3>
+### 🌦️ Geo Weather — Smart City Dashboard
 
-A deployed geospatial AI dashboard for weather impact, urban heat risk, and emergency mobility in Nasr City, Cairo—combining open data, feature engineering, routing, explainability, APIs, and an interactive map.
-
-**Engineering signal:** a full-stack decision-support product that moves from geospatial pipelines and model artifacts to a public live application.
+A deployed geospatial AI application for weather impact, urban heat risk, and emergency mobility in Nasr City, Cairo, with routing, explainability, APIs, and an interactive map.
 
 `FastAPI` `React` `TypeScript` `MapLibre` `GeoPandas` `Docker`
 
-**Verified checks:** 146 backend tests + 43 frontend tests, with a passing production build.
+**146 backend tests · 43 frontend tests · Passing production build**
 
 [Live demo →](https://mahmoudnagiubx-geoweather.hf.space/) · [Repository →](https://github.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin)
 
@@ -81,34 +75,30 @@ A deployed geospatial AI dashboard for weather impact, urban heat risk, and emer
   <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Smart-Life-Planner/main/docs/Cover.png" width="100%" alt="Smart Life Planner mobile application" />
 </a>
 
-<h3>🌌 Smart Life Planner</h3>
+### 🌌 Smart Life Planner
 
-A Flutter + FastAPI personal planning system combining tasks, notes, habits, focus, reminders, voice capture, authentication, and spiritual planning in one mobile experience.
-
-Its **H-ASAE engine** uses deterministic scoring, overload detection, prayer-aware constraints, and user-confirmed scheduling rather than hiding planning decisions behind an opaque model.
+A Flutter + FastAPI personal planning app combining tasks, notes, habits, focus sessions, reminders, voice capture, authentication, and rule-based daily planning.
 
 `Flutter` `FastAPI` `PostgreSQL` `Riverpod` `Groq` `Whisper`
 
-[Explore the repository →](https://github.com/MahmoudNagiubX/Smart-Life-Planner)
+[View repository →](https://github.com/MahmoudNagiubX/Smart-Life-Planner)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System">
-  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Project%20Image.png" width="100%" alt="Multi-Disease Detection System interface" />
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Project%20Image.png" width="100%" alt="Multi-Disease Detection System" />
 </a>
 
-<h3>🩺 Multi-Disease Detection System</h3>
+### 🩺 Multi-Disease Detection System
 
-An end-to-end educational medical-AI prototype combining cardiovascular risk estimation, four-class brain MRI classification, authenticated Flask workflows, patient-scoped history, PDF reporting, and a contextual LLM assistant.
-
-**Signal:** connects ML and CNN inference to validation, service boundaries, persistence, reporting, and responsible communication of model limits.
+An educational medical-AI prototype combining cardiovascular risk estimation, brain MRI classification, authenticated Flask workflows, history, PDF reports, and a contextual LLM assistant.
 
 `Python` `Flask` `scikit-learn` `TensorFlow` `SQLite` `Groq`
 
 <sub>Educational prototype · Not a clinical diagnostic tool</sub>
 
-[Explore the repository →](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System)
+[View repository →](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System)
 
 </td>
 </tr>
@@ -116,65 +106,29 @@ An end-to-end educational medical-AI prototype combining cardiovascular risk est
 
 ---
 
-## 🧠 Engineering Approach
-
-<div align="center">
-
-`LISTEN` → `GROUND` → `REASON` → `PLAN` → `ACT` → `VERIFY`
-
-</div>
-
-| Principle | How it appears in my projects |
-|---|---|
-| **Ground before generating** | RAG and structured data are preferred over unsupported model memory. |
-| **Separate intelligence from action** | AI outputs pass through validation boundaries before navigation, persistence, or scheduling. |
-| **Design for failure** | Retries, fallbacks, health checks, session recovery, and explicit error states are part of the product. |
-| **Build the complete path** | I connect models and algorithms to APIs, databases, interfaces, tests, and deployment. |
-| **Explain decisions** | Risk drivers, scheduling scores, confidence, and route reasoning are made visible where possible. |
-
----
-
-## 🧰 Core Engineering Stack
+## 🧰 Technical Focus
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 AI & Data
+### 🧠 AI & ML
 
-- Python
-- scikit-learn
-- TensorFlow & PyTorch
-- RAG and LLM integration
-- NLP and voice pipelines
-- Computer vision foundations
-- Pandas, NumPy, GeoPandas
+Python · scikit-learn · TensorFlow · PyTorch · RAG · LLM Integration · Computer Vision · NLP · Voice AI
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Backend & Reliability
+### ⚙️ Backend & Data
 
-- FastAPI and Flask
-- REST API design
-- PostgreSQL and SQLite
-- SQLAlchemy and Alembic
-- Authentication and validation
-- pytest and integration testing
-- Docker, Linux, GitHub Actions
+FastAPI · Flask · REST APIs · PostgreSQL · SQLite · SQLAlchemy · Authentication · pytest
 
 </td>
 <td width="33%" valign="top">
 
-### 📱 Product & Edge
+### 🚀 Product & Systems
 
-- Flutter and Riverpod
-- React and TypeScript
-- MapLibre and geospatial UI
-- Raspberry Pi
-- MQTT and WebSocket
-- Audio/STT/TTS integration
-- C++ and real-time systems
+Docker · Linux · GitHub Actions · Flutter · React · TypeScript · Raspberry Pi · MQTT
 
 </td>
 </tr>
@@ -182,10 +136,18 @@ An end-to-end educational medical-AI prototype combining cardiovascular risk est
 
 ---
 
-## 🧩 More Engineering Work
+## 🔧 How I Build
 
-- **[Super Mango Game](https://github.com/MahmoudNagiubX/Super-Mango-Game)** — C++/raylib project focused on modular game architecture, entity systems, state management, and resource ownership.
-- **[Space Invaders Game](https://github.com/MahmoudNagiubX/Space-Invaders-Game)** — real-time C++ OOP game with collisions, destructible shields, persistent high scores, and a packaged Windows release workflow.
+- **End to end:** data and models → APIs → databases → interfaces → deployment.
+- **Reliably:** validation, automated tests, fallbacks, health checks, and clear failure states.
+- **Grounded:** structured data and retrieval before unsupported generation.
+
+---
+
+## 🎮 Other Projects
+
+- **[Super Mango Game](https://github.com/MahmoudNagiubX/Super-Mango-Game)** — modular C++/raylib platformer with entity systems, state management, collision handling, and resource ownership.
+- **[Space Invaders Game](https://github.com/MahmoudNagiubX/Space-Invaders-Game)** — real-time C++ OOP game with destructible shields, persistent high scores, and a packaged Windows release workflow.
 
 ---
 
@@ -203,16 +165,12 @@ An end-to-end educational medical-AI prototype combining cardiovascular risk est
 
 <div align="center">
 
-### Let the projects do the talking.
+### Let's build something useful.
 
-<a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing"><strong>Resume</strong></a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/mahmoudnagiubb/"><strong>LinkedIn</strong></a>
-&nbsp;·&nbsp;
-<a href="mailto:mahmoud.nagib09@gmail.com"><strong>Email</strong></a>
-
-<br /><br />
-
-<sub>From prompts and data to APIs, interfaces, and physical systems.</sub>
+<strong><a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">Resume</a></strong>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/mahmoudnagiubb/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:mahmoud.nagib09@gmail.com">Email</a>
 
 </div>

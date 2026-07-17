@@ -1,0 +1,213 @@
+name: Final Profile Polish
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-polish.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  polish-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Write final profile README
+        shell: bash
+        run: |
+          cat > README.md <<'EOF'
+          <div align="center">
+
+          <img src="./assets/profile-hero.svg" width="100%" alt="Mahmoud Nagiub — Software Engineering student focused on AI and machine learning" />
+
+          <h3>
+            <a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">📄 Resume</a>
+            &nbsp; · &nbsp;
+            <a href="https://www.linkedin.com/in/mahmoudnagiubb/">💼 LinkedIn</a>
+            &nbsp; · &nbsp;
+            <a href="mailto:mahmoud.nagib09@gmail.com">✉️ Email</a>
+          </h3>
+
+          <sub>Open to AI/ML, AI Software, and Backend internships · Cairo / Remote · Expected graduation: June 2028</sub>
+
+          </div>
+
+          ---
+
+          ## 👋 About Me
+
+          I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**. I focus on building end-to-end AI software rather than stopping at model training or notebooks.
+
+          My work covers **machine learning, deep learning, RAG and LLM applications, computer vision, voice AI, backend APIs, databases, testing, Docker, and deployment**. I care about turning models into reliable products through grounded outputs, clear validation, modular services, and practical interfaces.
+
+          I currently lead the AI team at **INNOVATRONICS ECU Research Club** and I'm targeting internships in **AI/ML Engineering, AI Software Engineering, and Backend Engineering**.
+
+          **Current focus:** `RAG & LLM Apps` · `Computer Vision` · `Machine Learning` · `FastAPI & Backend Systems` · `MLOps Foundations`
+
+          ---
+
+          ## 🚀 Featured Projects
+
+          <table>
+          <tr>
+          <td width="50%" valign="top">
+
+          <a href="https://github.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot">
+            <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot/main/docs/assets/Screenshot_20260504_171651_LinkedIn.jpg" width="100%" alt="INNO Intelligent Campus Guide Robot" />
+          </a>
+
+          ### 🤖 INNO — Intelligent Campus Guide Robot
+
+          A bilingual, voice-first campus robot using wake-word detection, streaming STT, grounded RAG, TTS, session handling, and validated navigation commands on Raspberry Pi.
+
+          `Python` `RAG` `Voice AI` `SQLite/FTS5` `Raspberry Pi` `MQTT`
+
+          **1st Place Overall — Made in ECU Competition**
+
+          [View repository →](https://github.com/MahmoudNagiubX/Intelligent-Campus-Guide-Robot)
+
+          </td>
+          <td width="50%" valign="top">
+
+          <a href="https://mahmoudnagiubx-geoweather.hf.space/">
+            <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin/main/docs/images/geoweather-landing-page.png" width="100%" alt="Geo Weather Smart City Dashboard" />
+          </a>
+
+          ### 🌦️ Geo Weather — Smart City Dashboard
+
+          A deployed geospatial AI application for weather impact, urban heat risk, and emergency mobility in Nasr City, Cairo, with routing, explainability, APIs, and an interactive map.
+
+          `FastAPI` `React` `TypeScript` `MapLibre` `GeoPandas` `Docker`
+
+          **146 backend tests · 43 frontend tests · Passing production build**
+
+          [Live demo →](https://mahmoudnagiubx-geoweather.hf.space/) · [Repository →](https://github.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin)
+
+          </td>
+          </tr>
+
+          <tr>
+          <td width="50%" valign="top">
+
+          <a href="https://github.com/MahmoudNagiubX/Smart-Life-Planner">
+            <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Smart-Life-Planner/main/docs/Cover.png" width="100%" alt="Smart Life Planner mobile application" />
+          </a>
+
+          ### 🌌 Smart Life Planner
+
+          A Flutter + FastAPI personal planning app combining tasks, notes, habits, focus sessions, reminders, voice capture, authentication, and rule-based daily planning.
+
+          `Flutter` `FastAPI` `PostgreSQL` `Riverpod` `Groq` `Whisper`
+
+          [View repository →](https://github.com/MahmoudNagiubX/Smart-Life-Planner)
+
+          </td>
+          <td width="50%" valign="top">
+
+          <a href="https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System">
+            <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Project%20Image.png" width="100%" alt="Multi-Disease Detection System" />
+          </a>
+
+          ### 🩺 Multi-Disease Detection System
+
+          An educational medical-AI prototype combining cardiovascular risk estimation, brain MRI classification, authenticated Flask workflows, history, PDF reports, and a contextual LLM assistant.
+
+          `Python` `Flask` `scikit-learn` `TensorFlow` `SQLite` `Groq`
+
+          <sub>Educational prototype · Not a clinical diagnostic tool</sub>
+
+          [View repository →](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System)
+
+          </td>
+          </tr>
+          </table>
+
+          ---
+
+          ## 🧰 Technical Focus
+
+          <table>
+          <tr>
+          <td width="33%" valign="top">
+
+          ### 🧠 AI & ML
+
+          Python · scikit-learn · TensorFlow · PyTorch · RAG · LLM Integration · Computer Vision · NLP · Voice AI
+
+          </td>
+          <td width="33%" valign="top">
+
+          ### ⚙️ Backend & Data
+
+          FastAPI · Flask · REST APIs · PostgreSQL · SQLite · SQLAlchemy · Authentication · pytest
+
+          </td>
+          <td width="33%" valign="top">
+
+          ### 🚀 Product & Systems
+
+          Docker · Linux · GitHub Actions · Flutter · React · TypeScript · Raspberry Pi · MQTT
+
+          </td>
+          </tr>
+          </table>
+
+          ---
+
+          ## 🔧 How I Build
+
+          - **End to end:** data and models → APIs → databases → interfaces → deployment.
+          - **Reliably:** validation, automated tests, fallbacks, health checks, and clear failure states.
+          - **Grounded:** structured data and retrieval before unsupported generation.
+
+          ---
+
+          ## 🎮 Other Projects
+
+          - **[Super Mango Game](https://github.com/MahmoudNagiubX/Super-Mango-Game)** — modular C++/raylib platformer with entity systems, state management, collision handling, and resource ownership.
+          - **[Space Invaders Game](https://github.com/MahmoudNagiubX/Space-Invaders-Game)** — real-time C++ OOP game with destructible shields, persistent high scores, and a packaged Windows release workflow.
+
+          ---
+
+          ## 🟡 Contribution Arcade
+
+          <p align="center">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudNagiubX/MahmoudNagiubX/output/pacman-contribution-graph-dark.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudNagiubX/MahmoudNagiubX/output/pacman-contribution-graph.svg">
+              <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/MahmoudNagiubX/MahmoudNagiubX/output/pacman-contribution-graph.svg">
+            </picture>
+          </p>
+
+          ---
+
+          <div align="center">
+
+          ### Let's build something useful.
+
+          <strong><a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">Resume</a></strong>
+          &nbsp; · &nbsp;
+          <a href="https://www.linkedin.com/in/mahmoudnagiubb/">LinkedIn</a>
+          &nbsp; · &nbsp;
+          <a href="mailto:mahmoud.nagib09@gmail.com">Email</a>
+
+          </div>
+          EOF
+
+      - name: Remove temporary workflow
+        run: rm .github/workflows/profile-polish.yml
+
+      - name: Commit polished profile
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/workflows/profile-polish.yml
+          git commit -m "docs: polish profile for recruiter clarity"
+          git push origin main

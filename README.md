@@ -9,10 +9,7 @@
 <a href="https://www.linkedin.com/in/mahmoudnagiubb/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="mailto:mahmoud.nagib09@gmail.com">Email</a>
-
-<br /><br />
-
-<sub>Open to AI/ML, AI software, and backend internships · Cairo / Remote · Expected graduation: June 2028</sub>
+<br />
 
 </div>
 

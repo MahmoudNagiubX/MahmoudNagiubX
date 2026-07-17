@@ -4,43 +4,36 @@
 
 <br />
 
-<a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">
-  <img src="https://img.shields.io/badge/CV-View%20Resume-F7C948?style=for-the-badge&logo=readme&logoColor=111827" alt="View CV" />
-</a>
-<a href="https://www.linkedin.com/in/mahmoudnagiubb/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:mahmoud.nagib09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahmoud" />
-</a>
+<strong><a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">Resume</a></strong>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/mahmoudnagiubb/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:mahmoud.nagib09@gmail.com">Email</a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%7C%20AI%20Software%20%7C%20Backend%20Internships-22C55E?style=flat-square" alt="Open to internships" />
-<img src="https://img.shields.io/badge/Location-Cairo%20%7C%20Remote-334155?style=flat-square" alt="Cairo or remote" />
-<img src="https://img.shields.io/badge/Graduation-Expected%202028-334155?style=flat-square" alt="Expected graduation 2028" />
+<sub>Open to AI/ML, AI software, and backend internships · Cairo / Remote · Expected graduation: June 2028</sub>
 
 </div>
 
 ---
 
-## 🧭 Engineering Profile
+## 👋 About
 
-I am a **Computer Software Engineering student at the Egyptian Chinese University** focused on building practical AI-enabled software systems—not isolated notebooks or tutorial clones.
+I am a **Computer Software Engineering student at the Egyptian Chinese University** building practical AI-enabled systems—not isolated notebooks or tutorial clones.
 
 My strongest work sits where **AI, backend engineering, user-facing products, and real-world systems** meet: bilingual voice assistants, grounded retrieval, geospatial intelligence, scheduling automation, mobile applications, and robot integration.
 
-<div align="center">
-
-`LISTEN` → `GROUND` → `REASON` → `PLAN` → `ACT` → `VERIFY`
-
-</div>
-
-That loop describes how I approach projects: understand the input, ground decisions in reliable data, separate intelligence from action boundaries, and test the complete system—not only the happy path.
+| Snapshot | Details |
+|---|---|
+| **Education** | B.S. Computer Software Engineering · GPA **3.87 / 4.00** · Expected June 2028 |
+| **Current role** | AI Team Lead · INNOVATRONICS ECU Research Club |
+| **Target roles** | AI/ML Engineering · AI Software Systems · Backend Engineering Internships |
+| **Location** | Cairo · Remote |
 
 ---
 
-## 🚀 Flagship Systems
+## 🚀 Selected Engineering Systems
 
 <table>
 <tr>
@@ -104,19 +97,21 @@ Its **H-ASAE engine** uses deterministic scoring, overload detection, prayer-awa
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/MahmoudNagiubX/Admission-Robot-Brain">
-  <img src="./assets/admission-brain-card.svg" width="100%" alt="Admission Robot Brain architecture card" />
+<a href="https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System">
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Project%20Image.png" width="100%" alt="Multi-Disease Detection System interface" />
 </a>
 
-<h3>🧠 Admission Robot — AI Brain</h3>
+<h3>🩺 Multi-Disease Detection System</h3>
 
-A standalone bilingual conversational service for university admission. It supports QA and a guided **39-field registration flow** with Arabic/English normalization, validation, confirmation, session state, STT/TTS integration, and frontend-ready structured output.
+An end-to-end educational medical-AI prototype combining cardiovascular risk estimation, four-class brain MRI classification, authenticated Flask workflows, patient-scoped history, PDF reporting, and a contextual LLM assistant.
 
-**Engineering signal:** domain intelligence packaged behind a reusable service boundary instead of being coupled to one UI or backend framework.
+**Signal:** connects ML and CNN inference to validation, service boundaries, persistence, reporting, and responsible communication of model limits.
 
-`Python` `Arabic NLP` `LLM Routing` `STT/TTS` `Validation` `Service Design`
+`Python` `Flask` `scikit-learn` `TensorFlow` `SQLite` `Groq`
 
-[Explore the repository →](https://github.com/MahmoudNagiubX/Admission-Robot-Brain)
+<sub>Educational prototype · Not a clinical diagnostic tool</sub>
+
+[Explore the repository →](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System)
 
 </td>
 </tr>
@@ -124,7 +119,13 @@ A standalone bilingual conversational service for university admission. It suppo
 
 ---
 
-## 🧠 How I Think About Engineering
+## 🧠 Engineering Approach
+
+<div align="center">
+
+`LISTEN` → `GROUND` → `REASON` → `PLAN` → `ACT` → `VERIFY`
+
+</div>
 
 | Principle | How it appears in my projects |
 |---|---|
@@ -186,7 +187,6 @@ A standalone bilingual conversational service for university admission. It suppo
 
 ## 🧩 More Engineering Work
 
-- **[Multi-Disease Detection System](https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System)** — educational medical-AI prototype combining a Random Forest, MRI CNN, Flask services, authentication, history, PDF reporting, and a contextual LLM assistant.
 - **[Super Mango Game](https://github.com/MahmoudNagiubX/Super-Mango-Game)** — C++/raylib project focused on modular game architecture, entity systems, state management, and resource ownership.
 - **[Space Invaders Game](https://github.com/MahmoudNagiubX/Space-Invaders-Game)** — real-time C++ OOP game with collisions, destructible shields, persistent high scores, and a packaged Windows release workflow.
 
@@ -204,21 +204,11 @@ A standalone bilingual conversational service for university admission. It suppo
 
 ---
 
-## 🎓 Background & Direction
-
-- **B.S. Computer Software Engineering**, Egyptian Chinese University — expected June 2028.
-- **GPA:** 3.87 / 4.00.
-- **AI Team Lead**, INNOVATRONICS ECU Research Club.
-- Applied training across **NTI Data Analytics**, **DEPI Machine Learning**, and **Sprints + Microsoft AI/ML**.
-- Targeting early-career opportunities in **AI/ML engineering, AI software systems, and backend engineering**.
-
----
-
 <div align="center">
 
 ### Let the projects do the talking.
 
-<a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing"><strong>CV</strong></a>
+<a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing"><strong>Resume</strong></a>
 &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mahmoudnagiubb/"><strong>LinkedIn</strong></a>
 &nbsp;·&nbsp;

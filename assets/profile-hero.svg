@@ -40,7 +40,7 @@
     <text x="544" y="244" fill="#F9A8D4">GEOSPATIAL AI</text>
   </g>
 
-  <text x="100" y="286" fill="#7F8AA3" font-family="JetBrains Mono, Consolas, monospace" font-size="14">from data and voice → to reliable software → to real-world action</text>
+  <text x="100" y="286" fill="#7F8AA3" font-family="JetBrains Mono, Consolas, monospace" font-size="14">from data and voice  >  reliable software  >  real-world action</text>
 
   <g transform="translate(760 48)">
     <path d="M77 68L184 31L285 88L264 196L151 232L58 169L77 68Z" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.6"/>

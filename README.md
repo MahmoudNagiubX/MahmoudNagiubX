@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Mahmoud Nagiub — Software Engineering student focused on AI and machine learning" />
+# 👋 Mahmoud Nagiub
 
-<h3>
-  <a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">RESUME ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/mahmoudnagiubb/">LINKEDIN ↗</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:mahmoud.nagib09@gmail.com">EMAIL ↗</a>
-</h3>
+### Software Engineering Student · AI & Machine Learning
+
+**Building end-to-end AI software — from models and data to APIs, interfaces, testing, and deployment.**
+
+`RAG & LLM Applications` · `Computer Vision` · `Machine Learning & Deep Learning` · `FastAPI & Backend Systems`
+
+### [📄 Resume](https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing) · [💼 LinkedIn](https://www.linkedin.com/in/mahmoudnagiubb/) · [✉️ Email](mailto:mahmoud.nagib09@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**. I build end-to-end AI software by connecting models to APIs, databases, interfaces, tests, and deployment.
+I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**, and the **AI Team Lead at INNOVATRONICS ECU Research Club**.
 
-My current focus is **RAG and LLM applications, computer vision, machine learning and deep learning, voice AI, FastAPI backend systems, and MLOps foundations**. I also lead the AI team at **INNOVATRONICS ECU Research Club**.
+My main interests are **RAG and LLM applications, computer vision, machine learning and deep learning, voice AI, and backend engineering**. I enjoy taking ideas beyond notebooks and turning them into tested, usable products with APIs, databases, Docker, and deployment.
 
 ---
 

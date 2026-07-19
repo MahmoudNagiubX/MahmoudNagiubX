@@ -1,96 +1,105 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="32" y1="18" x2="1168" y2="286" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080C18">
-        <animate attributeName="stop-color" values="#080C18;#0C1120;#080C18" dur="12s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="0.54" stop-color="#12172B">
-        <animate attributeName="stop-color" values="#12172B;#17152D;#12172B" dur="12s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="1" stop-color="#10232B">
-        <animate attributeName="stop-color" values="#10232B;#17122A;#10232B" dur="12s" repeatCount="indefinite" />
-      </stop>
+    <linearGradient id="bg" x1="24" y1="18" x2="1170" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B16"/>
+      <stop offset="0.55" stop-color="#11162A"/>
+      <stop offset="1" stop-color="#111D2A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="64" y1="42" x2="1100" y2="260" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="72" y1="40" x2="1110" y2="255" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7C948"/>
       <stop offset="0.5" stop-color="#9B8CFF"/>
       <stop offset="1" stop-color="#5CE1E6"/>
     </linearGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#5CE1E6" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#5CE1E6" stop-opacity="0.32"/>
+      <stop offset="0.5" stop-color="#5CE1E6" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#5CE1E6" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity="0.032"/>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.025"/>
     </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFFFFF" fill-opacity="0.018"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
-  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="28" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="298" rx="27" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#scanlines)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="25" stroke="#FFFFFF" stroke-opacity="0.1"/>
 
-  <circle cx="1120" cy="35" r="145" fill="#8B5CF6" fill-opacity="0.065">
-    <animate attributeName="fill-opacity" values="0.04;0.095;0.04" dur="8s" repeatCount="indefinite"/>
+  <circle cx="1120" cy="45" r="150" fill="#8B5CF6" fill-opacity="0.06">
+    <animate attributeName="fill-opacity" values="0.035;0.09;0.035" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1040" cy="285" r="175" fill="#22D3EE" fill-opacity="0.05">
-    <animate attributeName="fill-opacity" values="0.03;0.07;0.03" dur="10s" repeatCount="indefinite"/>
+  <circle cx="1040" cy="285" r="180" fill="#22D3EE" fill-opacity="0.045">
+    <animate attributeName="fill-opacity" values="0.025;0.07;0.025" dur="10s" repeatCount="indefinite"/>
   </circle>
 
-  <rect x="706" y="0" width="76" height="300" fill="url(#scan)" opacity="0">
-    <animate attributeName="x" values="700;1130" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.34;0" dur="6s" repeatCount="indefinite"/>
+  <rect x="650" y="0" width="78" height="300" fill="url(#scan)" opacity="0">
+    <animate attributeName="x" values="640;1120" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.32;0" dur="6s" repeatCount="indefinite"/>
   </rect>
 
-  <rect x="62" y="43" width="8" height="214" rx="4" fill="url(#accent)"/>
+  <rect x="60" y="42" width="8" height="216" rx="4" fill="url(#accent)"/>
 
-  <text x="98" y="92" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Mahmoud Nagiub</text>
-  <text x="100" y="134" fill="#C2CAE0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Software Engineering Student · AI/ML Focus</text>
-  <text x="100" y="180" fill="#EEF2F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Building reliable AI products from model to deployment.</text>
-  <text x="100" y="220" fill="#9DA8BF" font-family="JetBrains Mono, Consolas, monospace" font-size="15">RAG · COMPUTER VISION · BACKEND APIs · TESTING · DEPLOYMENT</text>
+  <text x="96" y="88" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750">Mahmoud Nagiub</text>
+  <text x="98" y="130" fill="#C6CEE0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Software Engineering Student · AI &amp; Machine Learning</text>
+  <text x="98" y="176" fill="#EEF2F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Building AI systems from model to product.</text>
+  <text x="98" y="216" fill="#A9B4C8" font-family="JetBrains Mono, Consolas, monospace" font-size="15">RAG · COMPUTER VISION · BACKEND APIs · TESTING · DEPLOYMENT</text>
 
   <g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
-    <text x="100" y="255" fill="#5CE1E6">&gt; shipping end-to-end systems</text>
-    <rect x="333" y="242" width="8" height="17" rx="1" fill="#5CE1E6">
+    <text x="98" y="254" fill="#5CE1E6">&gt; build --end-to-end</text>
+    <rect x="276" y="241" width="8" height="17" rx="1" fill="#5CE1E6">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <g transform="translate(790 33)">
-    <g transform="translate(184 0)">
-      <circle cx="0" cy="0" r="4" fill="#34D399">
-        <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
-      </circle>
-      <text x="12" y="5" fill="#86EFAC" font-family="JetBrains Mono, Consolas, monospace" font-size="11">BUILD PIPELINE ONLINE</text>
-    </g>
+  <g transform="translate(655 28)">
+    <rect x="0" y="0" width="490" height="244" rx="18" fill="#050814" fill-opacity="0.28" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <text x="22" y="28" fill="#F7C948" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700">ENGINEERING RUN</text>
+    <text x="352" y="28" fill="#86EFAC" font-family="JetBrains Mono, Consolas, monospace" font-size="11">BUILD MODE</text>
+    <circle cx="466" cy="24" r="4" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.3s" repeatCount="indefinite"/>
+    </circle>
 
-    <path d="M65 63L170 28L275 77L270 181L158 225L53 167L65 63Z" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.72" stroke-dasharray="10 8">
-      <animate attributeName="stroke-dashoffset" values="0;-36" dur="4s" repeatCount="indefinite"/>
-    </path>
-    <path d="M65 63L158 225M170 28L53 167M275 77L158 225M65 63L275 77M53 167L270 181M170 28L270 181" stroke="#FFFFFF" stroke-opacity="0.11" stroke-dasharray="4 8">
-      <animate attributeName="stroke-dashoffset" values="0;24" dur="6s" repeatCount="indefinite"/>
+    <path id="route" d="M38 70H442V108H168V150H414V194H74" fill="none" stroke="#F8FAFC" stroke-opacity="0.18" stroke-width="2" stroke-dasharray="2 12" stroke-linecap="round"/>
+    <path d="M38 70H442V108H168V150H414V194H74" fill="none" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="12 10">
+      <animate attributeName="stroke-dashoffset" values="0;-44" dur="4s" repeatCount="indefinite"/>
     </path>
 
-    <circle cx="65" cy="63" r="8" fill="#F7C948"><animate attributeName="r" values="8;11;8" dur="2.8s" begin="0s" repeatCount="indefinite"/></circle>
-    <circle cx="170" cy="28" r="8" fill="#9B8CFF"><animate attributeName="r" values="8;11;8" dur="2.8s" begin="0.45s" repeatCount="indefinite"/></circle>
-    <circle cx="275" cy="77" r="8" fill="#5CE1E6"><animate attributeName="r" values="8;11;8" dur="2.8s" begin="0.9s" repeatCount="indefinite"/></circle>
-    <circle cx="270" cy="181" r="8" fill="#F472B6"><animate attributeName="r" values="8;11;8" dur="2.8s" begin="1.35s" repeatCount="indefinite"/></circle>
-    <circle cx="158" cy="225" r="8" fill="#60A5FA"><animate attrributeName="r" values="8;11;8" dur="2.8s" begin="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="53" cy="167" r="8" fill="#34D399"><animate attributeName="r" values="8;11;8" dur="2.8s" begin="2.25s" repeatCount="indefinite"/></circle>
-
-    <g fill="#D7DDEC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
-      <text x="30" y="49">DATA</text>
-      <text x="146" y="10">MODEL</text>
-      <text x="284" y="81">RAG</text>
-      <text x="280" y="201">API</text>
-      <text x="136" y="250">TEST</text>
-      <text x="5" y="190">DEPLOY</text>
+    <g fill="#F7C948" opacity="0.78">
+      <circle cx="82" cy="70" r="3"/><circle cx="122" cy="70" r="3"/><circle cx="202" cy="70" r="3"/><circle cx="282" cy="70" r="3"/><circle cx="362" cy="70" r="3"/>
+      <circle cx="442" cy="90" r="3"/><circle cx="390" cy="108" r="3"/><circle cx="310" cy="108" r="3"/><circle cx="230" cy="108" r="3"/>
+      <circle cx="168" cy="130" r="3"/><circle cx="220" cy="150" r="3"/><circle cx="300" cy="150" r="3"/><circle cx="380" cy="150" r="3"/>
+      <circle cx="414" cy="174" r="3"/><circle cx="350" cy="194" r="3"/><circle cx="270" cy="194" r="3"/><circle cx="190" cy="194" r="3"/><circle cx="110" cy="194" r="3"/>
     </g>
 
-    <rect x="108" y="105" width="112" height="46" rx="14" fill="#FFFFFF" fill-opacity="0.055" stroke="#FFFFFF" stroke-opacity="0.14">
-      <animate attributeName="stroke-opacity" values="0.12;0.32;0.12" dur="3s" repeatCount="indefinite"/>
-    </rect>
-    <text x="138" y="125" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">BUILD</text>
-    <text x="126" y="142" fill="#9AA5BC" font-family="JetBrains Mono, Consolas, monospace" font-size="11">END TO END</text>
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700">
+      <g transform="translate(150 70)"><circle r="13" fill="#9B8CFF" fill-opacity="0.15" stroke="#9B8CFF"/><text x="-10" y="4" fill="#CEC8FF">RAG</text></g>
+      <g transform="translate(442 108)"><circle r="13" fill="#5CE1E6" fill-opacity="0.14" stroke="#5CE1E6"/><text x="-7" y="4" fill="#AEF3F6">CV</text></g>
+      <g transform="translate(168 150)"><circle r="13" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6"/><text x="-10" y="4" fill="#FBC1DE">API</text></g>
+      <g transform="translate(414 194)"><circle r="13" fill="#60A5FA" fill-opacity="0.14" stroke="#60A5FA"/><text x="-13" y="4" fill="#BFDBFE">TEST</text></g>
+      <g transform="translate(74 194)"><circle r="15" fill="#34D399" fill-opacity="0.13" stroke="#34D399"/><text x="-13" y="4" fill="#A7F3D0">SHIP</text></g>
+    </g>
+
+    <g filter="url(#glow)">
+      <circle r="11" fill="#F7C948"/>
+      <path d="M-3 -5L7 0L-3 5Z" fill="#111827"/>
+      <animateMotion dur="9s" repeatCount="indefinite" rotate="auto" path="M38 70H442V108H168V150H414V194H74"/>
+    </g>
+
+    <g transform="translate(39 52)">
+      <text fill="#94A3B8" font-family="JetBrains Mono, Consolas, monospace" font-size="9">START</text>
+    </g>
+    <g transform="translate(49 176)">
+      <path d="M0 0V28" stroke="#E2E8F0" stroke-width="2"/>
+      <path d="M2 2H22L17 10L22 18H2Z" fill="#34D399"/>
+    </g>
+
+    <text x="22" y="226" fill="#758197" font-family="JetBrains Mono, Consolas, monospace" font-size="10">MODEL → RAG → VISION → API → TEST → SHIP</text>
   </g>
 </svg>

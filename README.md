@@ -3,11 +3,11 @@
 <img src="./assets/profile-hero.svg" width="100%" alt="Mahmoud Nagiub — Software Engineering student focused on AI and machine learning" />
 
 <h3>
-  <a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1yPzNHgfFBomMX2AqVchLHCYkBuQ_oyhK/view?usp=sharing">RESUME ↗</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/mahmoudnagiubb/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mahmoudnagiubb/">LINKEDIN ↗</a>
   &nbsp; · &nbsp;
-  <a href="mailto:mahmoud.nagib09@gmail.com">✉️ Email</a>
+  <a href="mailto:mahmoud.nagib09@gmail.com">EMAIL ↗</a>
 </h3>
 
 </div>
@@ -16,13 +16,9 @@
 
 ## 👋 About Me
 
-I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**. I focus on building end-to-end AI software rather than stopping at model training or notebooks.
+I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**. I build end-to-end AI software by connecting models to APIs, databases, interfaces, tests, and deployment.
 
-My work covers **machine learning, deep learning, RAG and LLM applications, computer vision, voice AI, backend APIs, databases, testing, Docker, and deployment**. I care about turning models into reliable products through grounded outputs, clear validation, modular services, and practical interfaces.
-
-I currently lead the AI team at **INNOVATRONICS ECU Research Club** and I'm targeting internships in **AI/ML Engineering, AI Software Engineering, and Backend Engineering**.
-
-**Current focus:** `RAG & LLM Apps` · `Computer Vision` · `Machine Learning` · `FastAPI & Backend Systems` · `MLOps Foundations`
+My current focus is **RAG and LLM applications, computer vision, machine learning and deep learning, voice AI, FastAPI backend systems, and MLOps foundations**. I also lead the AI team at **INNOVATRONICS ECU Research Club**.
 
 ---
 

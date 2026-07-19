@@ -2,9 +2,9 @@
 
 # 👋 Mahmoud Nagiub
 
-### Software Engineering Student · AI & Machine Learning
+### Software Engineering Student · Aspiring AI Engineer
 
-**Building end-to-end AI software — from models and data to APIs, interfaces, testing, and deployment.**
+**Building end to end AI software — from models and data to APIs, interfaces, testing, and deployment.**
 
 `RAG & LLM Applications` · `Computer Vision` · `Machine Learning & Deep Learning` · `FastAPI & Backend Systems`
 
@@ -18,7 +18,7 @@
 
 I'm a **Computer Software Engineering student at the Egyptian Chinese University** with a **3.87 / 4.00 GPA**, graduating in **June 2028**, and the **AI Team Lead at INNOVATRONICS ECU Research Club**.
 
-My main interests are **RAG and LLM applications, computer vision, machine learning and deep learning, voice AI, and backend engineering**. I enjoy taking ideas beyond notebooks and turning them into tested, usable products with APIs, databases, Docker, and deployment.
+My main interests are **RAG and LLM applications, computer vision, machine learning and deep learning, and backend engineering**. I enjoy taking ideas beyond notebooks and turning them into tested, usable products with APIs, databases, Docker, and deployment.
 
 ---
 
@@ -115,14 +115,14 @@ Python · scikit-learn · TensorFlow · PyTorch · RAG · LLM Integration · Com
 
 ### ⚙️ Backend & Data
 
-FastAPI · Flask · REST APIs · PostgreSQL · SQLite · SQLAlchemy · Authentication · pytest
+FastAPI · Flask · REST APIs · PostgreSQL · SQLite · Authentication · pytest
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚀 Product & Systems
 
-Docker · Linux · GitHub Actions · Flutter · React · TypeScript · Raspberry Pi · MQTT
+Docker · Linux · GitHub Actions · Flutter · React · Raspberry Pi
 
 </td>
 </tr>

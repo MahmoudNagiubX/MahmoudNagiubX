@@ -47,6 +47,7 @@ A bilingual, voice-first campus robot using wake-word detection, streaming STT, 
 
 <a href="https://mahmoudnagiubx-geoweather.hf.space/">
   <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin/main/docs/images/geoweather-landing-page.png" width="100%" alt="Geo Weather Smart City Dashboard" />
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Egypt-Smart-City-Digital-Twin/main/docs/images/geoweather-rain-dashboard.png" width="100%" alt="Geo Weather Smart City Dashboard" />
 </a>
 
 ### 🌦️ Geo Weather — Smart City Dashboard
@@ -81,7 +82,8 @@ A Flutter + FastAPI personal planning app combining tasks, notes, habits, focus 
 <td width="50%" valign="top">
 
 <a href="https://github.com/MahmoudNagiubX/Multi-Disease-Detection-System">
-  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Project%20Image.png" width="100%" alt="Multi-Disease Detection System" />
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Project Image.png" width="100%" alt="Multi-Disease Detection System" />
+  <img src="https://raw.githubusercontent.com/MahmoudNagiubX/Multi-Disease-Detection-System/main/Images/Brain Image.png" width="100%" alt="Multi-Disease Detection System" />
 </a>
 
 ### 🩺 Multi-Disease Detection System
